@@ -15,6 +15,7 @@ return {
 				"http",
 				"java",
 				"php",
+				"python",
 				"rust",
 				"scss",
 				"sql",

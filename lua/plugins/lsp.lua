@@ -7,6 +7,7 @@ return {
 				"stylua",
 				"selene",
 				"luacheck",
+				"pyright",
 				"shellcheck",
 				"shfmt",
 				"tailwindcss-language-server",

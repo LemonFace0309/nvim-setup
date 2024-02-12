@@ -3,10 +3,10 @@
 -- Add any additional keymaps here
 
 -- New tab
-vim.keymap.set("n", "te", ":tabedit")
-vim.keymap.set("n", "<tab>", ":tabnext<Return>")
-vim.keymap.set("n", "<s-tab>", ":tabprev<Return>")
-vim.keymap.set("n", "td", ":tabclose<Return>")
+-- vim.keymap.set("n", "te", ":tabedit")
+-- vim.keymap.set("n", "<tab>", ":tabnext<Return>")
+-- vim.keymap.set("n", "<s-tab>", ":tabprev<Return>")
+-- vim.keymap.set("n", "td", ":tabclose<Return>")
 
 -- Split window
 vim.keymap.set("n", "ss", ":split<Return>")
